@@ -1,5 +1,7 @@
 # FlippyMazeGame
 My Code Ninjas black belt project
+- The player is meant to collect as many coins as they wish as a kind of score counter that they can play again to beat
+- I plan on enhancing the game in the future
 
 ## Credits and assets
 - Created by Imaad Muzaffer
